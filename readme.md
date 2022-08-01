@@ -6,10 +6,10 @@
 - 💡 I'm currently learning JavaScript/PHP.
 - 💡 keep learning and keep going.
 
-## 💬 I can speak
-- Chinese: fluent
-- Taiwanese Hokkien: intermediate level
-- English: intermediate level
+## I can speak
+- 💬Chinese: fluent
+- 💬Taiwanese Hokkien: intermediate level
+- 💬English: intermediate level
 
 
 ## My stats
