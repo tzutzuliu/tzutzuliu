@@ -1,9 +1,15 @@
 ## Hi, I'm Tzutzu.
 - 🌏I'm from Taiwan.
 
+
 ## Current status
-- 💡 I'm currently learning JavaScript/PHP
-- 💡 keep learning and keep going
+- 💡 I'm currently learning JavaScript/PHP.
+- 💡 keep learning and keep going.
+
+## 💬 I can speak
+- Chinese: fluent
+- Taiwanese Hokkien: intermediate level
+- English: intermediate level
 
 
 ## My stats
