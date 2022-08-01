@@ -1,7 +1,7 @@
 ## Hi, I'm Tzutzu.
+- 🌏I'm from Taiwan.
 
 ## Current status
-- 🌏I'm from Taiwan.
 - 💡 I'm currently learning JavaScript/PHP
 - 💡 keep learning and keep going
 
