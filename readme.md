@@ -3,8 +3,8 @@
 
 
 ## Current status
-- 💡 I'm currently learning JavaScript/PHP.
-- 💡 keep learning and keep going.
+- 💡 I'm currently learning JavaScript/PHP. 💪💪💪
+- 💡 keep learning and keep going. 💪💪💪
 
 ## I can speak
 - 💬 Chinese: fluent
