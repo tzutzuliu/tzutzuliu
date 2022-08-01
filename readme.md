@@ -7,9 +7,9 @@
 - 💡 keep learning and keep going.
 
 ## I can speak
-- 💬Chinese: fluent
-- 💬Taiwanese Hokkien: intermediate level
-- 💬English: intermediate level
+- 💬 Chinese: fluent
+- 💬 Taiwanese Hokkien: intermediate level
+- 💬 English: intermediate level
 
 
 ## My stats
