@@ -1,8 +1,7 @@
 <div align="center">
     <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+    <h1>Welcome to my GitHub profile😄</h1>
 </div>
-
-## Welcome to my GitHub profile😄
 
 ## Hi,👋 I'm Tzutzu.
 - 🌏I'm from Taiwan.
